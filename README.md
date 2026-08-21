@@ -14,7 +14,13 @@
  
 
 **Active Directory & Automation**  
-- [Active Directory and PowerShell Automation Home Lab](https://github.com/alwa-a5/Active-Directory-and-Powershell-Automation-Home-Lab)  
+- [Active Directory and PowerShell Automation Home Lab](https://github.com/alwa-a5/Active-Directory-and-Powershell-Automation-Home-Lab)
+
+ 
+**PfSense Wazuh Home Lab**  
+- [PfSense Wazuh Home Lab](https://github.com/alwa-a5/pfSense-Wazuh-Home-Lab) 
+
+ 
 
 
 **AI-Assisted Security**  
